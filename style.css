@@ -1,6 +1,6 @@
 .dwqa-container a,
 .single-dwqa-question a {
-	box-shadow: none;
+	box-shadow: 1px;
 	text-decoration: none;
 }
 
@@ -38,7 +38,7 @@
 }
 
 #dwqa-search .ui-autocomplete-input {
-  border-radius: 10px;
+  border-radius: 20px;
   border: 2px solid #ddd;
 }
 
@@ -503,9 +503,9 @@ div.dwqa-questions-list .dwqa-question-item {
 }
 
 .dwqa-questions-footer .dwqa-ask-question a {
-  background-color: #1ba1e2;
+  background-color: #333333;
   border: 1;
-	border-radius: 50px }
+	border-radius: 10px }
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
