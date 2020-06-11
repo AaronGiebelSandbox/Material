@@ -3,3 +3,4 @@ This is an open-source Extention to improve the look & feel of sites running the
   </p>
   INSTALLATION: navigate to public html public_html/Your-Website-Name/wp-content/plugins/dw-question-answer-pro/templates/styles. upload the and unzip file. Go to settings, and under the style selection, select 'Material' <p> </p>
 
+Installation On DWQA free: themes >> customise >> additional CSS
